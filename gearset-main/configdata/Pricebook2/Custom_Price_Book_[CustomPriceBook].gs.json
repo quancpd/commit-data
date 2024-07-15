@@ -1,0 +1,10 @@
+{
+  "Object": "Pricebook2",
+  "Fields": {
+    "Description": "Hi CustomPriceBook",
+    "CopadoExternalId__c": "CustomPriceBook",
+    "IsActive": "true",
+    "Name": "Custom Price Book"
+  },
+  "References": []
+}
