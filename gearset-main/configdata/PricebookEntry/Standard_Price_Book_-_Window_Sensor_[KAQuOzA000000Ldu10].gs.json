@@ -1,0 +1,25 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "CopadoExternalId__c": "CopadoPricebookEntry1",
+    "IsActive": "true",
+    "UnitPrice": "40.0",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "CopadoExternalId__c": "StandardPriceBook"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "CopadoExternalId__c": "CopadoProduct1"
+      }
+    }
+  ]
+}
