@@ -6,7 +6,7 @@
     "Family": "Hardware",
     "CopadoExternalId__c": "CopadoProduct1",
     "IsActive": "true",
-    "Name": "Window Sensor",
+    "Name": "Copado Window Sensor",
     "ProductCode": "WINDOWSENSOR",
     "QuantityUnitOfMeasure": "",
     "SBQQ__AssetAmendmentBehavior__c": "Default",
