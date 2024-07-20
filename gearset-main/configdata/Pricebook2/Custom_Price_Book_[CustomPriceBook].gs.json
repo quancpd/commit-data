@@ -1,7 +1,7 @@
 {
   "Object": "Pricebook2",
   "Fields": {
-    "Description": "Hi CustomPriceBook",
+    "Description": "Hi CustomPriceBook again",
     "CopadoExternalId__c": "CustomPriceBook",
     "IsActive": "true",
     "Name": "Custom Price Book"
